@@ -1,5 +1,3 @@
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=깃허브
-kimminsuA &show_icons=true&theme=radical)](https://github.com/깃허브아이디)
 
 
 안녕하세요! 저는 자바 개발자 초보입니다. 저는 프로그래밍에 대한 열정을 가지고 있으며 자바를 배우고 있습니다.
